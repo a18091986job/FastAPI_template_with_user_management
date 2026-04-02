@@ -1,0 +1,12 @@
+ruff_cache/
+linkshort.egg-info/
+uv.lock
+output.txt
+output.json
+.github
+.ruff_cache
+__pycache__
+linkshort.egg-info
+__pycache__/
+*.pyc
+managers.cpython-312.pyc
